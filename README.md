@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+for styling:
+
+please verify this link: https://getbootstrap.com/docs/5.3/getting-started/introduction/ to understand the styling for component.
+npm install bootstrap@5.3.3
+
+For Date get from api:
+please verify this link: https://momentjs.com/
+npm install moment --save
+
+

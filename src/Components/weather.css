@@ -1,0 +1,39 @@
+@media (max-width: 786px) {
+  .weather-header h1 {
+    /* display: block !important; */
+    text-align: center !important;
+    font-size: 35px;
+    font-weight: 500;
+  }
+  .col-3 {
+    width: 100% !important;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .col-6 {
+    width: 100% !important;
+  }
+  .weather-input {
+    width: 50% !important;
+  }
+  .weather-input input {
+    border: 1px solid black;
+  }
+  .weather-input button {
+    margin-top: 20px;
+  }
+  table {
+    border: 1px solid black !important;
+  }
+  .w-25 {
+    width: 100% !important;
+  }
+}
+
+table {
+  border: 1px solid black !important;
+}
+
+.weather-header h1 {
+  color: #b06500;
+}
